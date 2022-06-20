@@ -1,7 +1,7 @@
 # Minecraft-JejejeShader
 ![title](https://user-images.githubusercontent.com/87007186/174525515-d4fb6a19-7c2b-44b7-adf1-8403e0c3614b.png)  
-**統合版用のシェーダー、いわゆる影modを作っていきます。  
-現段階では正式リリースはありません。プレリリース版があります。**
+**統合版用(主にNintendo Switch版)のシェーダーを作っています。  
+現段階では正式リリースはありません。**
 ## 美しくなる点
 ・雲  
 ・太陽  
@@ -11,18 +11,21 @@
 ・水  
 ・ガラス  
 ・草花  
-・葉っぱ
+・葉っぱ  
+・パーティクル
 ## 導入方法
 mcpackファイルをダウンロードし、ダブルクリックで  
 マインクラフトが開きます。そして、ワールドの編集の  
-ところで影modを使用できます。Ninetendo switchにも、  
+ところでシェーダーを使用できます。Ninetendo switchにも、  
 Realmsを使用することで導入することができます。  
 ## サポートされているバージョン
+・Ver1.18.30  
+・Ver1.18.32  
 ・Ver1.19.1  
 ・Ver1.19.12
 ## サポートされている機種
 ・PC ・Switch ・Android
-## スクリーンショット  
+## スクリーンショット画像  
 ![スクリーンショット (23)](https://user-images.githubusercontent.com/87007186/174552016-932561cd-3064-4726-8781-d8d9daecbc1d.png)  
 ![スクリーンショット (18)](https://user-images.githubusercontent.com/87007186/174552031-188c62aa-5439-485f-be18-b42f7da33281.png)  
 ![スクリーンショット (19)](https://user-images.githubusercontent.com/87007186/174552045-0b60c84d-d0e4-4cf1-954a-6a4fe3f8f9c0.png)  
