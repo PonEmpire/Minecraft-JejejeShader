@@ -27,3 +27,5 @@ Realmsを使用することで導入することができます。
 ![スクリーンショット (21)](https://user-images.githubusercontent.com/87007186/174552056-a5e66ba6-1cef-45f5-a4c9-342482b9f8fc.png)  
 ![スクリーンショット (20)](https://user-images.githubusercontent.com/87007186/174552068-cb930b06-1bde-4b89-ae6f-922946598fcf.png)  
 ![スクリーンショット (22)](https://user-images.githubusercontent.com/87007186/174552086-14e80992-0eb8-4b7b-934d-8ac3aca685cc.png)  
+
+© 2022 pon_empire 如月ぽんさん
