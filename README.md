@@ -20,3 +20,10 @@ Realmsを使用することで導入することができます。
 ・Ver1.19.12
 ## サポートされている機種
 ・PC ・Switch ・Android
+## スクリーンショット  
+![スクリーンショット (23)](https://user-images.githubusercontent.com/87007186/174552016-932561cd-3064-4726-8781-d8d9daecbc1d.png)  
+![スクリーンショット (18)](https://user-images.githubusercontent.com/87007186/174552031-188c62aa-5439-485f-be18-b42f7da33281.png)  
+![スクリーンショット (19)](https://user-images.githubusercontent.com/87007186/174552045-0b60c84d-d0e4-4cf1-954a-6a4fe3f8f9c0.png)  
+![スクリーンショット (21)](https://user-images.githubusercontent.com/87007186/174552056-a5e66ba6-1cef-45f5-a4c9-342482b9f8fc.png)  
+![スクリーンショット (20)](https://user-images.githubusercontent.com/87007186/174552068-cb930b06-1bde-4b89-ae6f-922946598fcf.png)  
+![スクリーンショット (22)](https://user-images.githubusercontent.com/87007186/174552086-14e80992-0eb8-4b7b-934d-8ac3aca685cc.png)  
