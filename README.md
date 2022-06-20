@@ -1,7 +1,7 @@
 # Minecraft-JejejeShader
 ![title](https://user-images.githubusercontent.com/87007186/174525515-d4fb6a19-7c2b-44b7-adf1-8403e0c3614b.png)  
 **統合版用(主にNintendo Switch版)のシェーダーを作っています。  
-現段階では正式リリースはありません。**
+現段階では正式リリースは1つです**
 ## 美しくなる点
 ・雲  
 ・太陽  
