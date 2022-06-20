@@ -1,0 +1,35 @@
+{
+  "format_version": 1,
+  "header": {
+    "description": "",
+    "name": "Jejeje shader alpha1.6.2",
+    "uuid": "90e7eaa0-dbe0-11ec-9c53-05b8bcf61911",
+    "version": [0, 0, 1]
+  },
+  "modules": [
+    {
+      "description": "",
+      "type": "resources",
+      "uuid": "90e9e670-dbe0-11ec-928a-4dd88df6bad3",
+      "version": [0, 0, 1]
+    }
+   ],
+    "subpacks": [
+    {
+    		"folder_name": ".3",
+    		"name": "Medium quality",
+    		"memory_tier": 3
+    	},
+    	{
+    		"folder_name": ".2",
+    		"name": "High quality",
+    		"memory_tier": 2
+    	},
+    	{
+    		"folder_name": ".1",
+    		"name": "Max quality",
+    		"memory_tier": 1
+
+       	}
+    ]
+}
