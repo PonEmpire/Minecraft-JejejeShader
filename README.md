@@ -32,4 +32,4 @@ Realmsを使用することで導入することができます。
 ![スクリーンショット (49)](https://user-images.githubusercontent.com/87007186/174758407-32e8eca0-d9b2-444b-9ce2-43c90000d306.png)  
 ![スクリーンショット (48)](https://user-images.githubusercontent.com/87007186/174758426-e478d1f2-76d2-4ccd-96a9-4995b699ab35.png)  
 ![スクリーンショット (50)_2](https://user-images.githubusercontent.com/87007186/174758453-367c6651-a18d-4f05-aebd-dffb9f1e5543.png)  
-© 2022 pon_empire 如月ぽんさん
+© 2022 pon_empire みどりなぽんさん。
