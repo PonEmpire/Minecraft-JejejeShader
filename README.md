@@ -1,7 +1,8 @@
 # Minecraft-JejejeShader
 ![title](https://user-images.githubusercontent.com/87007186/174525515-d4fb6a19-7c2b-44b7-adf1-8403e0c3614b.png)  
 **統合版用(主にNintendo Switch版)のシェーダーを作っています。  
-現段階では正式リリースは1つです**
+現段階では正式リリースは1つです**  
+**必ず最新のシェーダーをダウンロードしてください。不具合が発生する可能性があります。**
 ## 美しくなる点
 ・雲  
 ・太陽  
@@ -9,22 +10,20 @@
 ・溶岩  
 ・雨  
 ・水  
-・ガラス  
 ・草花  
 ・葉っぱ  
 ・パーティクル
-## 導入方法
-mcpackファイルをダウンロードし、ダブルクリックで  
-マインクラフトが開きます。そして、ワールドの編集の  
-ところでシェーダーを使用できます。Ninetendo switchにも、  
-Realmsを使用することで導入することができます。  
+## Nintendo Switchへの導入方法
+**Realmsを購入しておく必要があります。**  
+1.PCかスマホを使い、Realmsのワールドのリソースパックの欄にこのシェーダーを入れる。  
+2.SwitchでRealmsのワールドをダウンロード。    
+3.ダウンロードしたワールドを開きリソースパック欄にあるシェーダーを有効化する。  
+4.ワールドに入る。
 ## サポートされているバージョン
-・Ver1.18.30  
-・Ver1.18.32  
 ・Ver1.19.1  
 ・Ver1.19.12
 ## サポートされている機種
-・PC ・Switch ・Android
+・PC ・Switch ・Android ・PS4
 ## スクリーンショット画像  
 ![スクリーンショット (23)](https://user-images.githubusercontent.com/87007186/174552016-932561cd-3064-4726-8781-d8d9daecbc1d.png)  
 ![スクリーンショット (46)](https://user-images.githubusercontent.com/87007186/174758316-cb818a46-cfc1-41d4-8195-8f8f20bbd6f8.png)  
